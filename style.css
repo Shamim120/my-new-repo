@@ -5,3 +5,13 @@ h1{
     border:solid cornsilk;
 
 }
+.walton
+{
+    font-size: 80px;
+    background-color: darkslategray;
+    text-align: center;
+    border-style: solid;
+    border-color: coral;
+    border-radius: 15px;
+    border: 400px;
+}
